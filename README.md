@@ -133,3 +133,4 @@ python3 -m grid_calibration.process03B.temp_bias run 0
 - [x] 命令行接口重写，批量生成
 - [ ] 保持不同配置文件中，key的一致性
 - [ ] operation 拆分
+- [ ] english
